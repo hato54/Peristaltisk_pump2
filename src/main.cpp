@@ -1,4 +1,5 @@
 // 2022-05-22 HT
+// Arduino UNO
 // program för att stya en peristaltisk pump
 // På x sekunder av y minuter
 // Kommando serieport sekunder,minuter-> ENTER
